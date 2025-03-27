@@ -1,0 +1,24 @@
+{
+  "name": "express-blog-routing",
+  "version": "1.0.0",
+  "description": "Esercizio",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "watch": "node --watch app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CarloCosta92/express-blog-routing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CarloCosta92/express-blog-routing/issues"
+  },
+  "homepage": "https://github.com/CarloCosta92/express-blog-routing#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
